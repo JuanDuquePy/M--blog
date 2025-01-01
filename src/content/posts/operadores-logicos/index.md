@@ -5,7 +5,7 @@ description: "Comprende los operadores lógicos de Python"
 image: "./blue.webp"
 tags: ["Python", "Principiante", "Lógica"]
 category: Tutorial
-draft: true
+draft: false
 ---
 
 > Imagen de <a href="https://pixabay.com/es/users/rostislavuzunov-8621397/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5457731">Rostislav Uzunov</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5457731">Pixabay</a>
