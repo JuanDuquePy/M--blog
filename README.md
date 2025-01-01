@@ -1,63 +1,31 @@
-# 🍥Fuwari
+# Bienvenido a mí blog
 
-A static blog template built with [Astro](https://astro.build).
+Este es un espacio donde comparto mis pensamientos, proyectos y aprendizaje sobre diversos temas
+además de diferentes temas que disfruto de entender.
 
-[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**📦 Old Hexo Version**](https://github.com/saicaca/hexo-theme-vivia)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 中文**](https://github.com/saicaca/fuwari/blob/main/README.zh-CN.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 日本語**](https://github.com/saicaca/fuwari/blob/main/README.ja-JP.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 한국어**](https://github.com/saicaca/fuwari/blob/main/README.ko.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 Español**](https://github.com/saicaca/fuwari/blob/main/README.es.md)
+![captura de un sitio web del tipo blog](/public/readme/image.png)
 
-> README version: `2024-09-10`
+## ¿Qué encontrarás aquí?
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+- **Desarrollo de software**: Consejos sobre Python, Django, tutoriales y más.
+- **Opiniones personales**: Reflexiones sobre la actualidad, política y más.
+- **Entretenimiento**: Compartir mi opnión sobre algunas peliculas o c-dramas que me gusta ver.
 
-## ✨ Features
+## Licencia
 
-- [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
-- [x] Smooth animations and page transitions
-- [x] Light / dark mode
-- [x] Customizable theme colors & banner
-- [x] Responsive design
-- [ ] Comments
-- [x] Search
-- [ ] TOC
+Este es proyecto (fork) que esta bajo una licencia [MIT](LICENSE).
 
-## 🚀 How to Use
+## Planes futuros
 
-1. [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
-2. To edit your blog locally, clone your repository, run `pnpm install` AND `pnpm add sharp` to install dependencies.
-   - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
-3. Edit the config file `src/config.ts` to customize your blog.
-4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
-5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
+Como verán, realmente no lo hice cambios a la UI de la plantilla original porque muy posiblemente
+Terminé desarrollando otro blog, ya que me gustaría crear uno propio con las tecnologías que
+manejo.
 
-## ⚙️ Frontmatter of Posts
+## Agradecimientos especiales
 
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
-lang: jp      # Set only if the post's language differs from the site's language in `config.ts`
----
-```
+- [Saica - fuwari](https://github.com/saicaca/fuwari), facilito el template del
+blog para uso libre
 
-## 🧞 Commands
+----
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                             | Action                                           |
-|:------------------------------------|:-------------------------------------------------|
-| `pnpm install` AND `pnpm add sharp` | Installs dependencies                            |
-| `pnpm dev`                          | Starts local dev server at `localhost:4321`      |
-| `pnpm build`                        | Build your production site to `./dist/`          |
-| `pnpm preview`                      | Preview your build locally, before deploying     |
-| `pnpm new-post <filename>`          | Create a new post                                |
-| `pnpm astro ...`                    | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro --help`                 | Get help using the Astro CLI                     |
+Gracias por visitar mi blog y espero que disfrutes del contenido.
